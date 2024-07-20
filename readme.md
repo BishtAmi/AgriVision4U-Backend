@@ -2,12 +2,12 @@
 
 ## Api Endpoints
 
--- Create a Task: POST /tasks
--- Get All Tasks: GET /tasks
--- Get a Specific Task: GET /tasks/:id
--- Update a Task: PUT /tasks/:id
--- Delete a Task: DELETE /tasks/:id
--- Search a Task: GET /tasks/:text
+- Create a Task: POST /tasks
+- Get All Tasks: GET /tasks
+- Get a Specific Task: GET /tasks/:id
+- Update a Task: PUT /tasks/:id
+- Delete a Task: DELETE /tasks/:id
+- Search a Task: GET /tasks/:text
 
 ## Create a Task: POST /tasks
 
